@@ -89,7 +89,7 @@
 .footer .btn{
     text-decoration: none !important;
 
-    background: linear-gradient( 270deg, rgba(242,157,231,1) 11%,rgba(246,191,159,1)50%);
+    background: linear-gradient( 270deg, rgba(242,157,231,1) 11%,rgba(246,191,159,1) 50%);
 }
 .footer .fs-8{
     font-size: 0.8rem;
@@ -112,7 +112,7 @@
 }
 @media only screen and (max-width:1200px) {
     .navbar{
-       background: linear-gradient(270deg, rgba(242,157,231,1) 11%, rgba(246,191,159,1)50%) !important;
+       background: linear-gradient(270deg, rgba(242,157,231,1) 11%, rgba(246,191,159,1) 50%) !important;
        height: auto;
     }
     .footer .bg-design{
